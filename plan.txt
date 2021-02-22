@@ -1,0 +1,7 @@
+1. create npm project
+
+2. create index,xss,js file
+
+3. install dependencies,express,nodemon(dev dep.)
+
+4.
